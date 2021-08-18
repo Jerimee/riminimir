@@ -2,7 +2,7 @@
 
 echo "bootstrap?"
 
-set -e
+set -x
 
 gem install bundler
 bundle install
