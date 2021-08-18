@@ -2,7 +2,7 @@
 
 This is a bad copy of the Minimal Theme. I made it because I'm not comfortable with Git. You should not use this. [Please see the real Minimal Theme for GitHub Pages here.](https://github.com/pages-themes/minimal)
 
-[Build Status](https://github.com/Jerimee/riminimir/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
+[![.github/workflows/ci.yaml](https://github.com/Jerimee/riminimir/actions/workflows/ci.yaml/badge.svg)](https://github.com/Jerimee/riminimir/actions/workflows/ci.yaml) 
 
 *riminimir is a bad theme for GitHub Pages.*
 

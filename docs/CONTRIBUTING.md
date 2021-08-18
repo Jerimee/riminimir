@@ -1,6 +1,6 @@
 # Contributing to the riminimir theme
 
-Consider finding the Minimal theme instead
+Consider finding [the Minimal theme instead](pages-themes/minimal).
 
 
 ## Looking for support?
@@ -24,9 +24,9 @@ Here are a few tips for writing *great* bug reports:
 
 ## How to suggest a feature or enhancement
 
-If you find yourself wishing for a feature that doesn't exist in the Minimal theme, you are probably not alone. There are bound to be others out there with similar needs. Many of the features that the Minimal theme has today have been added because our users saw the need.
+If you find yourself wishing for a feature that doesn't exist in the riminimir theme, you are probably not alone. There are bound to be others out there with similar needs. Many of the features that the riminimir theme has today have been added because our users saw the need.
 
-Feature requests are welcome. But take a moment to find out whether your idea fits with the scope and goals of the project. It's up to you to make a strong case to convince the project's developers of the merits of this feature. Please provide as much detail and context as possible, including describing the problem you're trying to solve.
+Feature requests are welcome. Please provide as much detail and context as possible, including describing the problem you're trying to solve.
 
 [Open an issue](https://github.com/Jerimee/riminimir/issues/new) which describes the feature you would like to see, why you want it, how it should work, etc.
 
