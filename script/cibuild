@@ -8,4 +8,4 @@ bundle exec rubocop -D --config .rubocop.yml
 bundle exec script/validate-html
 gem build jekyll-theme-riminimir.gemspec
 
-echo "WHAT DID you DO??!"
+echo "WHAT DiD you DO??!"
