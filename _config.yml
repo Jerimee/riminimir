@@ -1,5 +1,6 @@
 title: riminimir theme
+logo: /assets/img/logo.png
 description: riminimir is a bad theme for GitHub Pages.
 show_downloads: true
 google_analytics:
-theme: 
+theme: jekyll-theme-riminimir
