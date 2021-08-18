@@ -1,5 +1,7 @@
 #!/bin/sh
 
+echo "bootstrap?"
+
 set -e
 
 gem install bundler
