@@ -1,0 +1,17 @@
+#!/bin/sh
+# Tag and push a release.
+
+set -e
+
+# Make sure we're in the project root.
+
+cd $(dirname "$0")/..
+
+# Make sure the darn thing works
+
+bundle update
+
+
+# Make sure we're on the master branch.
+echo "Do not release this - this thing is junk"
+exit 1
