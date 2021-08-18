@@ -12,6 +12,8 @@ jobs:
         with:
           ruby-version: 2.7
           bundler-cache: true
+      - name: chat
+        run: echo "hello $GITHUB_REPOSITORY - how are you"
       - name: build
         run: script/bootstrap
       - name: test
