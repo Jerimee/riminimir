@@ -4,7 +4,7 @@ This is a bad copy of the Minimal Theme. I made it because I'm not comfortable w
 
 [Build Status](https://github.com/pages-themes/riminimir/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-minimal.svg)](https://badge.fury.io/rb/jekyll-theme-minimal)
 
-*riminimir is a bad theme for GitHub Pages. 
+*riminimir is a bad theme for GitHub Pages.*
 
 ![Thumbnail of the thing](thumbnail.png)
 
