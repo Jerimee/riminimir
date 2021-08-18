@@ -1,8 +1,0 @@
-#!/bin/sh
-
-echo "bootstrap rule all?"
-
-set -x
-
-gem install bundler
-bundle install
