@@ -38,6 +38,13 @@
           </ul>
         {% endif %}
       </header>
+      <h2>Panel of Navigation</h2>
+      <ol>
+        <li><a href="{{ site.url }}">Home</a></li>
+      </ol>
+      {% for item in site.pages %}
+        {{ item }}
+      {% endfor %}
       <section>
 
       {{ content }}
