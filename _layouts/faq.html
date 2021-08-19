@@ -2,7 +2,9 @@
 
 <p class="view">by {{ page.author | default: site.author }}</p>
 
-{{content}}
+<p> uses FAQ template here!</p>
+
+{{ content }}
 
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
