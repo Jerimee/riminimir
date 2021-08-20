@@ -40,14 +40,13 @@
 
         <h2>Panel of Navigation</h2>
         <ol>
-          <li><a href="{{ site.url }}">Home</a></li>
-        </ol>
-<hr>
-        {{ site.github.PAGES_ENV }} or possibly {{ site.github.url }}
-<hr>
+          <li><a href="{{ site.github.url }}">Home</a></li>
           {% for page in site.pages %}
-            - {{ page.title }}<br>
+            <li><a href="{{ page.url }}">{{ page.title }}</a></li>
           {% endfor %}
+        </ol>
+
+
       </header>
       <section>
 
